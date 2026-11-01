@@ -1,4 +1,4 @@
-# Skin Cancer Detection - Capstone Project
+# Skin Cancer Detection - Researching Project
 
 ## Project Overview
 
